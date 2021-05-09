@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Adam Kozlowski # Website name
-baseurl: '' kozload.netlify.app
+baseurl: '' https://kozload.netlify.app/
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
